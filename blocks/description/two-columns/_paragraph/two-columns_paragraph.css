@@ -1,0 +1,10 @@
+.two-columns_paragraph {
+    margin-top: 30px;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.two-columns_paragraph:first-of-type {
+    margin-top: 0;
+}
