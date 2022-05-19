@@ -1,0 +1,19 @@
+.cards__images_attention {
+    background-image: url(/images/cards-attention.png);
+}
+
+.cards__images_competence {
+    background-image: url(/images/cards-competence.png);
+}
+
+.cards__images_interliving {
+    background-image: url(/images/cards-interliving.png);
+}
+
+.cards__images_question {
+    background-image: url(/images/cards-question.png);
+}
+
+.cards__images_recall {
+    background-image: url(/images/cards-recall.png);
+}
