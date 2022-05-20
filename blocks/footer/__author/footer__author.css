@@ -1,6 +1,4 @@
 .footer__author {
-    position: absolute;
-    left: 0;
-    bottom: 0px;
-    color: white;
+    margin: 0;
+    color: white;  
 }
